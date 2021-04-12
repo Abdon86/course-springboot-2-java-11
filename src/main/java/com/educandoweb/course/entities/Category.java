@@ -82,7 +82,5 @@ public class Category implements Serializable {
 		return true;
 	}
 
-	
-
 
 }
